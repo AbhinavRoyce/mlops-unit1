@@ -10,4 +10,4 @@ print(df.info())
 print("\nBasic Statistics:\n", df.describe())
 
 print(df.head())
-df.to_csv("data1.csv", index=False)
+df.to_csv("data1.csv", index=Fals
